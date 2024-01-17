@@ -1,4 +1,4 @@
 <?php
 
 echo 'Aku Ganteng';
-echo 'Banget';
+echo ' Banget';
